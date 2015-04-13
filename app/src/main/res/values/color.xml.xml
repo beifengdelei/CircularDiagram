@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 饼图 -->
+    <color name="pie_progress_bank">#fd8f8b</color>
+    <color name="pie_progress_fund">#2999f9</color>
+    <color name="text_tag_bg">#aaaaaa</color>
+    <color name="text_progress_bg">#fb4b45</color>
+    <color name="text_term_bg">#aaaaaa</color>
+
+</resources>
